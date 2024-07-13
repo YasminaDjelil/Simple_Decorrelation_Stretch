@@ -11,5 +11,11 @@ The principle of dstretch works on enhancing the contrast between different colo
   <a>  Image of rock painting in Hossa, Finland. [Taken by Veikko Miettinen and Dmitry Semenov]</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5804b66d-ec67-4912-bb85-84996b1626e7" width="60%">
+  <br><br>
+  <a>  Image of rock painting in Atsuvansalmi, Finland. [Taken by Veikko Miettinen and Dmitry Semenov]</a>
+</p>
+
 Feel free to explore my <a href="https://github.com/YasminaDjelil?tab=repositories">other repositories</a> if you are interested in rock art in general or the study of rock art with remote sensing specifically.
 
