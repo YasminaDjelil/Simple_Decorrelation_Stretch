@@ -12,7 +12,7 @@ The principle of dstretch works on enhancing the contrast between different colo
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5804b66d-ec67-4912-bb85-84996b1626e7" width="60%">
+  <img src="https://github.com/user-attachments/assets/436845f1-6d1e-4121-9870-c271ff1be34a" width="60%">
   <br><br>
   <a>  Image of rock painting in Atsuvansalmi, Finland. [Taken by Veikko Miettinen and Dmitry Semenov]</a>
 </p>
